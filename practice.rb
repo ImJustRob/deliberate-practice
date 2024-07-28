@@ -7,3 +7,7 @@ puts x.upcase
 y = 5
 w = 6
 puts y + w
+
+#Write a program that uses a variable to store a word, then prints that word in reverse order.
+a = "hello"
+puts a.reverse
